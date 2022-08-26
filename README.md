@@ -16,7 +16,7 @@ vless 性能更加优秀，占用资源更少。
 
 ### 服务端
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/fangaso/heroku-v2ray2.0) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/f35stch6s/heroku-v2ray2.0) 
 
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，填上应用的名称、选择节点(建议用欧洲节点，美国节点会自动删除YouTube评论与点赞！)、按需修改部分参数和UUID后点击下面`deploy`开始创建部署应用  
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示`Your app was successfully deployed` 
@@ -36,7 +36,7 @@ vless 性能更加优秀，占用资源更少。
 <summary>V2rayN(Xray、V2ray)</summary>
 
 ```bash
-* 客户端下载：https://github.com/2dust/v2rayN/releases
+* 客户端下载：https://github.com/f35stch6s/v2rayN/releases
 * 代理协议：vless 或 vmess
 * 地址：xxx.herokuapp.com
 * 端口：443
@@ -56,7 +56,7 @@ vless 性能更加优秀，占用资源更少。
 <summary>Trojan-Go</summary>
 
 ```bash
-* 客户端下载: https://github.com/p4gefau1t/trojan-go/releases
+* 客户端下载: https://github.com/f35stch6s/trojan-go/releases
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
@@ -79,7 +79,7 @@ vless 性能更加优秀，占用资源更少。
 <summary>Shadowsocks</summary>
 
 ```bash
-* 客户端下载：https://github.com/shadowsocks/shadowsocks-windows/releases/
+* 客户端下载：https://github.com/f35stch6s/shadowsocks-windows/releases/
 * 服务器地址: xxx.herokuapp.com
 * 端口: 443
 * 密码：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
@@ -135,12 +135,12 @@ addEventListener(
 
 ## OpenWrt优选IP脚本自动更新：
 
-* [CloudflareST](https://github.com/Lbingyi/CloudflareST) `OpenWrt推荐-速度较快`
-* [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate) `OpenWrt推荐`
+* [CloudflareST](https://github.com/f35stch6s/CloudflareST) `OpenWrt推荐-速度较快`
+* [cf-autoupdate](https://github.com/f35stch6s/cf-autoupdate) `OpenWrt推荐`
 
 > [更多来自热心网友PR的使用教程](/tutorial)
 
 ## 关于CF筛选IP
 
-* 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) `推荐`
-* 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
+* 请参考 [CloudflareSpeedTest](https://github.com/f35stch6s/CloudflareSpeedTest) `推荐`
+* 请参考 [better-cloudflare-ip](https://github.com/f35stch6s/better-cloudflare-ip)
